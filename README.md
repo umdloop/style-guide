@@ -1,5 +1,5 @@
 # UMD Loop Style Guide
-This guide describes the style conventions, development practices, and coding standards for UMD Loop's avionics teams. It is broken up by language, listed in order of superiority.
+This guide describes the style conventions, development practices, and coding standards for UMD Loop's avionics teams. It is broken up by language, listed in order of increasing superiority.
 
 ## Julia
 * [Style Conventions](julia/CodingStyle.md)
@@ -10,3 +10,5 @@ This guide describes the style conventions, development practices, and coding st
 ## Python
 
 ## MATLAB
+
+## Assembly
